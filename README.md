@@ -602,12 +602,12 @@ bdata pipelines run gd_lk56epmy2i5g7lzu0k discover_by_keyword --keyword "python 
 
 ## YouTube Node.js 爬虫工具
 
-同一款 YouTube 爬虫工具也提供 Node.js 版本：[brightdata/youtube-scraper-node](https://github.com/brightdata/youtube-scraper-node)。
+同一款 YouTube 爬虫工具也提供 Node.js 版本：[bright-cn/youtube-scraper-node](https://github.com/bright-cn/youtube-scraper-node)。
 
 ## 更多 Bright Data 开源爬虫工具
 
 采用相同方式构建并提供实时验证示例的其他 Python 爬虫工具：
 
-- [TikTok Python 爬虫工具](https://github.com/brightdata/tiktok-scraper)
+- [TikTok Python 爬虫工具](https://github.com/bright-cn/tiktok-scraper)
 - [Instagram Python 爬虫工具](https://github.com/bright-cn/instagram-scraper-python)
-- [ChatGPT Python 爬虫工具](https://github.com/brightdata/chatgpt-scraper)
+- [ChatGPT Python 爬虫工具](https://github.com/bright-cn/chatgpt-scraper)
